@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.pasir_lapka_konrad.PaSiRLapkaKonradApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.729 s -- in com.example.pasir_lapka_konrad.PaSiRLapkaKonradApplicationTests
